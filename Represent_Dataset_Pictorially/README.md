@@ -17,3 +17,7 @@
 
 ## Other Libraries:
   - Pandas
+
+## Environment:
+  - Google Colaboratory, access link below
+  - https://colab.research.google.com/ 
