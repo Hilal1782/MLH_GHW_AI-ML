@@ -1,5 +1,5 @@
 ## Linked List in Python
-A linked list is a linear data structure where each node contains a reference to an object and a reference to the next node in the list. In this implementation, the linked list is implemented as a singly linked list.
+A linked list is a linear data structure where each node contains a reference to an object and a reference to the next node in the list. In this implementation, the linked list is implemented as a _singly linked list_.
 
 ### Class Definition
 The linked list implementation is defined in a class called `LinkedList`. The class contains the following methods:
