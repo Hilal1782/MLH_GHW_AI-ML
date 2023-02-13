@@ -27,13 +27,13 @@
   - The data is from **2020-01-03** until **2023-02-10**, if someone wants to use this code, note that your visualizations may show updated according to the dataset selected.
   - Then I used matplotlib and seaborn to show line graph, bar chart, histogram and heatmap respectively. The visualizations are shown below;
   ### Line Graph:
-      ![alt text](Visualization/line-graph.png)
+      ![alt text](Visualizations/line-graph.png)
   
   ### Bar Chart:
-      ![alt text](Visualization/bar-chart.png)
+      ![alt text](Visualizations/bar-chart.png)
   
   ### Histogram:
-      ![alt text](Visualization/histogram.png)
+      ![alt text](Visualizations/histogram.png)
   
   ### Heatmap:
-      ![alt text](Visualization/heatmap.png)
+      ![alt text](Visualizations/heatmap.png)
