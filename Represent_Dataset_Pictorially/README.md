@@ -27,13 +27,13 @@
   - The data is from **2020-01-03** until **2023-02-10**, if someone wants to use this code, note that your visualizations may show updated according to the dataset selected.
   - Then I used matplotlib and seaborn to show line graph, bar chart, histogram and heatmap respectively. The visualizations are shown below;
   ### Line Graph:
-      ![alt text]([Visualizations/line-graph.png](https://github.com/Hilal1782/MLH_GHW_AI-ML/blob/main/Represent_Dataset_Pictorially/Visualizations/line-graph.png))
+![alt text](https://github.com/Hilal1782/MLH_GHW_AI-ML/blob/main/Represent_Dataset_Pictorially/Visualizations/line-graph.png)
   
   ### Bar Chart:
-      ![alt text]([Visualizations/bar-chart.png](https://github.com/Hilal1782/MLH_GHW_AI-ML/blob/main/Represent_Dataset_Pictorially/Visualizations/bar-chart.png))
-  
+![alt text](https://github.com/Hilal1782/MLH_GHW_AI-ML/blob/main/Represent_Dataset_Pictorially/Visualizations/bar-chart.png)
+
   ### Histogram:
-      ![alt text]([Visualizations/histogram.png](https://github.com/Hilal1782/MLH_GHW_AI-ML/blob/main/Represent_Dataset_Pictorially/Visualizations/histogram.png))
+![alt text](https://github.com/Hilal1782/MLH_GHW_AI-ML/blob/main/Represent_Dataset_Pictorially/Visualizations/histogram.png)
   
   ### Heatmap:
-      ![alt text]([Visualizations/heatmap.png](https://github.com/Hilal1782/MLH_GHW_AI-ML/blob/main/Represent_Dataset_Pictorially/Visualizations/heatmap.png))
+![alt text](https://github.com/Hilal1782/MLH_GHW_AI-ML/blob/main/Represent_Dataset_Pictorially/Visualizations/heatmap.png)
