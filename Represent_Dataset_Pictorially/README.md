@@ -5,7 +5,7 @@
 - Upload the code to a GitHub repository and share it with us on our Devpost.
 
 ## Dataset:
-  - Covid-19 2021 global cases dataset, taken from WHO (World Health Organization). The download link is shared below
+  - Covid-19 2021 global cases dataset, taken from WHO (World Health Organization). The download link is shared below;
   - https://covid19.who.int/WHO-COVID-19-global-data.csv
 
 ## Programming Language:
@@ -21,3 +21,19 @@
 ## Environment:
   - Google Colaboratory, access link below
   - https://colab.research.google.com/ 
+  
+## How and What I did:
+  - First of all, I pre-processed the data. I selected the data that I wanted to visualize (Countries and New_cases) and grouped the selected data country vise.
+  - The data is from **2020-01-03** until **2023-02-10**, if someone wants to use this code, note that your visualizations may show updated according to the dataset selected.
+  - Then I used matplotlib and seaborn to show line graph, bar chart, histogram and heatmap respectively. The visualizations are shown below;
+  ### Line Graph:
+      ![alt text](Visualization/line-graph.png)
+  
+  ### Bar Chart:
+      ![alt text](Visualization/bar-chart.png)
+  
+  ### Histogram:
+      ![alt text](Visualization/histogram.png)
+  
+  ### Heatmap:
+      ![alt text](Visualization/heatmap.png)
